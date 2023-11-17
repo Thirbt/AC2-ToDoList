@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "991571394813",
+    "project_id": "ac2todolistamauri",
+    "storage_bucket": "ac2todolistamauri.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991571394813:android:15b875ba354777967ebe94",
+        "android_client_info": {
+          "package_name": "com.codingstuff.todolist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1CmIjVBBYvCyj4mFqoQsvB7RWck94NPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
